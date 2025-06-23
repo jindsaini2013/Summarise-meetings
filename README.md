@@ -41,7 +41,7 @@ You can run this project locally using **Anaconda** in terminal.
 
 git clone https://github.com/jindsaini2013/Summarise-meetings.git
 
-cd meeting-minute-generator 
+cd Summarise-meetings
 
 ### 2. Create and activate environment:
 
