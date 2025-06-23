@@ -33,27 +33,25 @@ Automatically transcribe and summarize your `.mp3` or `.wav` meeting recordings 
 ---
 
 ## 📌 Setup Instructions
-You can run this project locally using **Anaconda**.
+You can run this project locally using **Anaconda** in terminal.
 
 ---
 
 ### 1. Clone the repo:
 
-bash
 git clone https://github.com/jindsaini2013/Summarise-meetings.git
+
 cd meeting-minute-generator 
 
 ### 2. Create and activate environment:
 
-bash
 conda env create -f environment.yml
+
 conda activate llms
 
 ### 3. Run the app:
 
-bash
 streamlit run app.py
-
 
 ### 4. Additional Setup
 Make sure FFmpeg is installed and accessible from your system PATH.
